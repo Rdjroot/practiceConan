@@ -7,6 +7,9 @@ from selenium import webdriver
 import re
 import xlwt
 
+
+#施工未完成，作废
+
 #写入Excel文件
 def WriteExcel(list):
     pass
