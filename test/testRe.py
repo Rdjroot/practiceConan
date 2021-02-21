@@ -4,6 +4,7 @@
 #@Software:PyCharm
 import re
 
+#以下为正则表达式测试
 
 # text = '<tr><td align="center"><div class="para" label-module="para">1</div></td><td align="center"><div class="para" label-module="para">云霄飞车杀人事件</div></td><td align="center"></td><td align="center"><div class="para" label-module="para">B/S</div></td><td align="center" rowspan="2"><div class="para" label-module="para"><a data-lemmaid="3494663" href="/item/%E6%9F%8F%E5%8E%9F%E5%AE%BD%E5%8F%B8/3494663" target="_blank">柏原宽司</a></div></td><td align="center" rowspan="10"><div class="para" label-module="para">-</div></td><td align="center" rowspan="2"><div class="para" label-module="para"><a data-lemmaid="11055588" href="/item/%E5%84%BF%E7%8E%89%E5%85%BC%E5%97%A3/11055588" target="_blank">儿玉兼嗣</a></div></td><td align="center" rowspan="2"><div class="para" label-module="para"><a data-lemmaid="51665957" href="/item/%E9%A1%BB%E8%97%A4%E6%98%8C%E6%9C%8B/51665957" target="_blank">须藤昌朋</a></div></td></tr>'
 
